@@ -32,12 +32,10 @@ The logged data is stored securely in Google Sheets (cloud-based) or Excel (loca
 
 *RFID CARD NAME TAG :-*
 
-The following google drive link is for the RFID Card Name Tag which save in the name tag_code.ino file which you can click an see the code.
-https://drive.google.com/drive/folders/1Qso0T8fxteOIS5R-MaAYT8ZiQcIl0bFY?usp=drive_link
+The following google drive link is for the RFID Card Name Tag which save in the name tag_code.ino file which you can click an see the code. It is available in the name of tag_code.ino file.
 
 
 *RFID ATTENDANCE GOOGLE SHEET CODE :-*
 
-The following google drive link is for the RFID Attendance Google Sheet Code which save in the name attendance_sheet.ino file which you can click an see the code.
-https://drive.google.com/drive/folders/1mKWhNnMmbi5whFTTn8d-_NJphfFWohSP?usp=drive_link
+The following google drive link is for the RFID Attendance Google Sheet Code which save in the name attendance_sheet.ino file which you can click an see the code. It is available in the name of attendance_sheetcode.ino file.
 
