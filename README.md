@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b901bd49-1e19-47a6-8699-85ac853fe793)# RFID-Attendance-System
+# RFID-Attendance-System
 An RFID-based attendance system leverages Radio Frequency Identification (RFID) technology to streamline and automate the process of tracking attendance. Each individual is provided with an RFID card or tag that contains a unique identifier. When the card is scanned by an RFID reader, the system records the attendance data instantly.
 
 **WORKING PRINCIPLE :-**
